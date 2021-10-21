@@ -1,0 +1,1 @@
+This is Mana's first git project ! :)
